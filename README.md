@@ -5,4 +5,5 @@ this repository contains my assignments
 [assignment 3 week 5](https://github.com/Jessica2106/assignments/blob/master/Assignment_week_5.ipynb)
 [assignment 4 week 6](https://github.com/Jessica2106/assignments/blob/master/assignment4.ipynb)
 [assignment 5 week 8](https://github.com/Jessica2106/assignments/blob/master/assignment5%20(1).ipynb)
-[exam R](https://github.com/Jessica2106/assignments/blob/master/OECD_R_exam.ipynb)
+[Exam R](https://github.com/Jessica2106/assignments/blob/master/OECD_R_exam.ipynb)
+[Exam Python](https://github.com/Jessica2106/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
